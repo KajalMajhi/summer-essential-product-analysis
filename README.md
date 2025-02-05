@@ -1,1 +1,1 @@
-# summer-essential-product-analysis
+# Summer-Essential-Beauty-Product-analysis
