@@ -7,7 +7,8 @@ In the dynamic world of beauty and personal care, businesses must make data-driv
 
  ### **📊 Dataset**
 
-The dataset used for this analysis contains information on Indian summer beauty products, including:
+The dataset used for this analysis contains information on Indian summer beauty products, including
+(This data was sourced from kaggle):
 
 **Product attributes:** Category, brand, price, SPF rating, organic/non-organic, waterproof, primary ingredients.
 
