@@ -51,7 +51,7 @@ The dataset used for this analysis contains information on Indian summer beauty 
 
 ✔ Waterproof products have slightly higher popularity, suggesting a gradual consumer shift towards them.
 
-✔ Unisex products have the highest rating (3.07), indicating strong consumer trust in gender-neutral beauty lines.
+✔ Unisex products have the highest rating, indicating strong consumer trust in gender-neutral beauty lines.
 
 ✔ Male-focused beauty products have nearly equal demand as Female, making men’s grooming a strategic growth area.
 
@@ -60,7 +60,7 @@ The dataset used for this analysis contains information on Indian summer beauty 
 
  #### <br> **🔹 Brand & Product Performance**
 
-✔ Lakmé dominates Makeup & Skincare, while Himalaya leads Haircare, Garnier leads Bodycare, and L'Oréal leads Fragrance.
+✔ Lakme dominates Makeup & Skincare, while Himalaya leads Haircare, Garnier leads Bodycare, and L'Oréal leads Fragrance.
 
 ✔ Nykaa has the highest-rated products, whereas Myntra sells the most, showing the contrast between brand reputation and market reach.
 
